@@ -42,6 +42,28 @@ npm install
 npm run build
 ```
 
+### Testing
+
+#### Jest Unit Testing
+
+There are two Jest test files in this repository:
+
+*/auth/login.test.js
+    *Tests login
+    *Tests storing of bearer token
+*/auth/logout.test.js
+    *Tests deleting token when logging out
+
+
+#### Cypress E2E Testing
+
+*logintest.cy.js
+    *Tests login with valid credentials
+*authenticationtest.cy.js
+    *Tests login with invalid credentials
+*logouttest.cy.js
+    *Tests that logout is functional, and prompts the login menu
+
 ## Contact
 
 This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
