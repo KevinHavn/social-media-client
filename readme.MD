@@ -1,12 +1,7 @@
 # Workflow Course Assignment
 
-[![Automated E2E Testing](https://github.com/KevinHavn/social-media-client/actions/workflows/automated-e2e-testing.yml/badge.svg?branch=workflow)](https://github.com/KevinHavn/social-media-client/actions/workflows/automated-e2e-testing.yml)
-
-[![Automated Unit Testing](https://github.com/KevinHavn/social-media-client/actions/workflows/automated-unit-testing.yml/badge.svg?branch=workflow)](https://github.com/KevinHavn/social-media-client/actions/workflows/automated-unit-testing.yml)
-
-[![Deploy static content to Pages](https://github.com/KevinHavn/social-media-client/actions/workflows/pages.yml/badge.svg)](https://github.com/KevinHavn/social-media-client/actions/workflows/pages.yml)
-
-[![Code Review](https://github.com/KevinHavn/social-media-client/actions/workflows/gpt.yml/badge.svg)](https://github.com/KevinHavn/social-media-client/actions/workflows/gpt.yml)
+[![Automated E2E Testing](https://github.com/KevinHavn/social-media-client/actions/workflows/automated-e2e-testing.yml/badge.svg?branch=workflow)](https://github.com/KevinHavn/social-media-client/actions/workflows/automated-e2e-testing.yml) [![Automated Unit Testing](https://github.com/KevinHavn/social-media-client/actions/workflows/automated-unit-testing.yml/badge.svg?branch=workflow)](https://github.com/KevinHavn/social-media-client/actions/workflows/automated-unit-testing.yml) 
+[![Deploy static content to Pages](https://github.com/KevinHavn/social-media-client/actions/workflows/pages.yml/badge.svg)](https://github.com/KevinHavn/social-media-client/actions/workflows/pages.yml) [![Code Review](https://github.com/KevinHavn/social-media-client/actions/workflows/gpt.yml/badge.svg)](https://github.com/KevinHavn/social-media-client/actions/workflows/gpt.yml)
 
 This is the Workflow Course Assignment, showing that I am proficient in E2E and Unit Testing, and tailoring my workflow.
 
